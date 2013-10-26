@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>AnonCostume</name>
+
+    <description>
+        PGB App for iOS w/ Gif Ani for Anon Halloween Costume
+    </description>
+
+    <!-- <author href="https://build.phonegap.com" email="support@phonegap.com">
+        Hardeep Shoker 
+    </author> -->
+	<preference name="fullscreen" value="true" />
+	<preference name="orientation" value="portrait" />
+</widget>
